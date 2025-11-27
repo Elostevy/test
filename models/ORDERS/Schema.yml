@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: steve_raw
+    schema: TEST
+    tables:
+      - name: orders
+        description: "Raw orders table from STEVE_RAW.TEST schema"
